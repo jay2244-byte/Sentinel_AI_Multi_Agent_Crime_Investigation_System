@@ -1,0 +1,39 @@
+# Web Backend & API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Frontend Dashboard
+streamlit
+
+# AI & LLM Frameworks
+langchain
+langchain-openai
+langchain-google-genai
+langchain-groq
+langgraph
+crewai
+openai
+google-generativeai
+
+# Knowledge Graph & Vector DB
+neo4j
+faiss-cpu
+chromadb
+
+# NLP & Computer Vision (Basic placeholders for future phases)
+spacy
+transformers
+sentence-transformers
+# opencv-python-headless # Uncomment when deploying
+opencv-python
+torch
+torchvision
+
+# Utils
+python-dotenv
+requests
+
+# Extra Integrations Added
+langchain-ollama
+ultralytics

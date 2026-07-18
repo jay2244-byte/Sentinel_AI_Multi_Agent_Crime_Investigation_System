@@ -1,0 +1,8 @@
+Video Source: Transit Camera
+Video Path: C:\Users\Jay\Documents\Multi-agent Crime investigation system\uploads\person_bicycle_car_detection.mp4
+
+Witness Statement 1 (Cyclist witness):
+I was riding my bicycle along the transit intersection path around 10:05 PM. A dark car drove past me at an extremely high speed. It felt very unsafe, and I noticed the car didn't slow down at all.
+
+Witness Statement 2 (Officer Davis log):
+At 10:10 PM, a vehicle was observed speeding near the transit crossing. A suspicious individual on a bicycle was seen waiting at the intersection, seemingly watching the car's movements.

@@ -1,0 +1,13 @@
+Video Source: Convenience Store CCTV (Aisle 1)
+Video Path: C:\Users\Jay\Documents\Multi-agent Crime investigation system\uploads\robbery_store_aisle.mp4
+
+--- Witness Evidence ---
+
+Witness Statement 1 (Store Clerk - Sarah):
+I was working at the cash register around 9:45 PM. A tall man wearing a dark jacket and sunglasses walked into the store. He walked down the main store aisle, pulled out a small black bag, and demanded all the cash in the register. He took approximately $500 and ran out towards the rear alleyway.
+
+Witness Statement 2 (Customer - Michael):
+I was in the store aisle looking at snacks around 9:43 PM. I saw a man walking in a suspicious way, looking around. He had a black backpack. He walked to the register and confronted the clerk. He seemed to have something in his jacket pocket, although I did not see a weapon. I immediately hid behind the columns.
+
+Witness Statement 3 (Passerby - David):
+I was walking past the store front around 9:48 PM. I saw a man in a dark jacket with a black backpack running out of the store. He ran into the rear alleyway. Just before that, around 9:40 PM, I noticed a silver sedan idling in the alleyway with its license plate covered.
